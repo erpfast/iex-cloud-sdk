@@ -109,7 +109,7 @@ Below is a list of endpoints to be implemented. (53/97)
 - [x] Logo
 - [ ] Market Volume
 - [x] News
-- [ ] OHLC
+- [x] OHLC* - needs Facades and tests
 - [ ] Options (exp dates)
 - [ ] Options (data)
 - [ ] Peers
